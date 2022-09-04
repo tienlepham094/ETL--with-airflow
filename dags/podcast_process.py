@@ -14,7 +14,7 @@ import requests
 
 PODCAST_URL = "https://www.marketplace.org/feed/podcast/marketplace/"
 EPISODE_FOLDER = "./episodes"
-FRAME_RATE = 16000
+
 
 
 def _get_eps(ti):
